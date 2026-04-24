@@ -11,15 +11,11 @@ git add file path
 git commit -m "message"
 git push origin main
 
-<<<<<<< HEAD
-git add file path 
-git commit -m "message"
+git add .
+git commit -m "my work"
 git pull origin main
 
-conflict happens 
+git add .
+git commit -m "resolved conflict"
 
-git add file path 
-git commit -m "message"
-=======
->>>>>>> 7e117fc (my work)
 ```
