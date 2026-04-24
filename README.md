@@ -10,4 +10,6 @@ git config user.email "23a81a0541@sves.org.in"
 git add file path 
 git commit -m "message"
 git push origin main
+
+git pull origin main
 ```
